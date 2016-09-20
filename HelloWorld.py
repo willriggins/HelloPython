@@ -45,3 +45,19 @@ addition(5, 15)
 
 for a in range(1,14): #2nd number is not inclusive
     print(a)
+
+#while loop
+
+z = 0
+
+while z <= 20:
+    print("You are" + " " + str(z) + " years old.")
+    z += 1
+
+#strings
+
+myString = "some text"
+
+print(myString)
+
+print(type(myString))
